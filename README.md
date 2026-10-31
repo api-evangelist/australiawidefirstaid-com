@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Australia’s leading first aid training provider, trusted by millions of Australians since 1996. Offers same‑day certificates, nationally accredited courses, and comprehensive health and safety training across the country. Provides online and in‑person classes for workplaces, schools, and community groups, with a focus on practical skills and compliance with Australian standards.
+Australia Wide First Aid (RTO 31961) is Australia’s leading first aid and CPR training provider, delivering nationally accredited courses since 1996. With over a million participants trained across more than 100 locations nationwide, the company offers same‑day digital certificates, a lowest‑price guarantee, and a wide range of courses for workplaces, schools, and individuals. Their services include First Aid, CPR, Childcare First Aid, and specialised workplace training, supported by a qualified instructor team and an online booking platform.
 
-**Areas:** Company · FirstAid · Training · Australia · Health
+**Areas:** Company · First Aid · Training · Australia · Health & Safety
 
 ## australiawidefirstaid-com on APIs.io
 
@@ -74,71 +74,67 @@ Everything profiled for australiawidefirstaid-com is published on APIs.io rather
 
 ### APIs (1)
 
-- [Australia Wide First Aid Agent API](https://apis.io/apis/australiawidefirstaid-com/australia-wide-first-aid-agent-api/) — Read‑only JSON API for AI agents to find first aid courses, venues, sessions and FAQs. No authentication required.
+- [australiawidefirstaid-com Agent API](https://apis.io/apis/australiawidefirstaid-com/australiawidefirstaid-com-agent-api/) — The Agent API from australiawidefirstaid-com — 6 operation(s) for agent.
 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### JSON-LD (1)
-
-Linked-data contexts for the provider's vocabulary.
-
-- [Australiawidefirstaid Com Context](https://apis.io/jsonld/australiawidefirstaid-com/australiawidefirstaid-com-context/)
-
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Australiawidefirstaid Com Authentication](https://apis.io/security/australiawidefirstaid-com/australiawidefirstaid-com-authentication/)
 - [Australiawidefirstaid Com Domain Security](https://apis.io/security/australiawidefirstaid-com/australiawidefirstaid-com-domain-security/)
 
-#### Plans and pricing (1)
+#### OAuth scopes (1)
 
-Published plans, tiers and prices.
+The permissions the API asks for.
 
-- [Australiawidefirstaid Com Plans Pricing](https://apis.io/plans/australiawidefirstaid-com/australiawidefirstaid-com-plans-pricing/)
+- [Australiawidefirstaid Com Scopes](https://apis.io/scopes/australiawidefirstaid-com/australiawidefirstaid-com-scopes/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.australiawidefirstaid.com/)
-- [Documentation](https://www.australiawidefirstaid.com/agent/docs)
-- [Getting started](https://www.australiawidefirstaid.com/about)
-- [API reference](https://www.australiawidefirstaid.com/agent/openapi.json)
+- [Website](https://australiawidefirstaid.com/)
+- [Documentation](https://www.australiawidefirstaid.com/about)
+- [Getting started](https://www.australiawidefirstaid.com/pricing)
+- [API reference](https://www.australiawidefirstaid.com/.well-known/api-catalog)
 - [Pricing](https://www.australiawidefirstaid.com/pricing)
+- [Sign up](https://www.australiawidefirstaid.com/courses/first-aid)
 - [Support](https://www.australiawidefirstaid.com/contact)
 - [Terms of service](https://www.australiawidefirstaid.com/terms)
 - [Privacy policy](https://www.australiawidefirstaid.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 33.8** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 38.6** — thin · rubric 0.25.0 · scored 2026-10-29
 
 | Facet | Score |
 |---|---|
 | Discoverability | 65.0 |
-| Contract quality | 10.7 |
-| Contract governance | 30.0 |
+| Contract quality | 45.9 |
+| Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 42.9 |
-| Access clarity | 60.0 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 44.7 |
 
-**Agent readiness 11.7** — agent-aware
+**Agent readiness 33.9** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | — |
+| Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
-| Error Semantics | — |
+| Error Semantics | verified |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -147,10 +143,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
 
-**Regulatory alignment 14.8** — Health
+**Regulatory alignment 24.2** — Health
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/australiawidefirstaid-com/](https://apis.io/providers/australiawidefirstaid-com/).
 
